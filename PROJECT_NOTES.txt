@@ -1,0 +1,6 @@
+Project preparation notes
+
+- `flight_ticket.py` was prepared from the uploaded SQLite3 version of the flight booking program.
+- The unrelated Student Management System section at the end of the source file was excluded so it can be kept as a separate project.
+- The original uploaded files were not changed.
+- The program syntax was checked before packaging; run through its features locally before publishing.

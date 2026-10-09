@@ -1,0 +1,17 @@
+# Generated SQLite database (may contain local test bookings)
+flight_booking.db
+*.db
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
